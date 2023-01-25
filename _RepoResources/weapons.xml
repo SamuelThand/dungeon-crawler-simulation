@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<weapons>
+    <weapon>
+        <!-- AXES -->
+        <type>Axe</type>
+        <name>Hatchet</name>
+        <wield>One Handed Melee</wield>
+        <damage>3</damage>
+        <restriction>Warrior</restriction>
+    </weapon>
+    <weapon>
+        <type>Axe</type>
+        <name>Battle Axe</name>
+        <wield>Two Handed Melee</wield>
+        <damage>7</damage>
+        <restriction>Warrior</restriction>
+    </weapon>
+
+    <!-- BOWS -->
+    <weapon>
+        <type>Bow</type>
+        <name>Short Bow</name>
+        <wield>Two Handed Ranged</wield>
+        <damage>6</damage>
+        <restriction>Ranger</restriction>
+    </weapon>
+    <weapon>
+        <type>Bow</type>
+        <name>Long Bow</name>
+        <wield>Two Handed Ranged</wield>
+        <damage>9</damage>
+        <restriction>Ranger</restriction>
+    </weapon>
+
+    <!-- CROSSBOWS -->
+    <weapon>
+        <type>Crossbow</type>
+        <name>Light Crossbow</name>
+        <wield>Two Handed Ranged</wield>
+        <damage>8</damage>
+        <restriction>Ranger</restriction>
+    </weapon>
+    <weapon>
+        <type>Crossbow</type>
+        <name>Heavy Crossbow</name>
+        <wield>Two Handed Ranged</wield>
+        <damage>11</damage>
+        <restriction>Ranger</restriction>
+    </weapon>
+
+    <!-- ORBS -->
+    <weapon>
+        <type>Orb</type>
+        <name>Orb</name>
+        <wield>One Handed Ranged</wield>
+        <damage>5</damage>
+        <restriction>Cleric</restriction>
+    </weapon>
+
+    <!-- SHIELDS -->
+    <weapon>
+        <type>Shield</type>
+        <name>Buckler</name>
+        <wield>One Handed Melee</wield>
+        <damage>3</damage>
+        <restriction>Warrior</restriction>
+    </weapon>
+    <weapon>
+        <type>Shield</type>
+        <name>Medium Shield</name>
+        <wield>One Handed Melee</wield>
+        <damage>5</damage>
+        <restriction>Warrior</restriction>
+    </weapon>
+    <weapon>
+        <type>Shield</type>
+        <name>Large Shield</name>
+        <wield>One Handed Melee</wield>
+        <damage>6</damage>
+        <restriction>Warrior</restriction>
+    </weapon>
+
+    <!-- STAFFS -->
+    <weapon>
+        <type>Staff</type>
+        <name>Staff</name>
+        <wield>Two Handed Melee</wield>
+        <damage>2</damage>
+        <restriction>Wizard</restriction>
+    </weapon>
+
+    <!-- SWORDS -->
+    <weapon>
+        <type>Sword</type>
+        <name>Broad Sword</name>
+        <wield>One Handed Melee</wield>
+        <damage>4</damage>
+        <restriction>Warrior</restriction>
+    </weapon>
+    <weapon>
+        <type>Sword</type>
+        <name>Great Sword</name>
+        <wield>Two Handed Melee</wield>
+        <damage>6</damage>
+        <restriction>Warrior</restriction>
+    </weapon>
+
+    <!-- TOMES -->
+    <weapon>
+        <type>Tome</type>
+        <name>Tome</name>
+        <wield>Two Handed Ranged</wield>
+        <damage>7</damage>
+        <restriction>Cleric</restriction>
+    </weapon>
+
+    <!-- WANDS -->
+    <weapon>
+        <type>Wand</type>
+        <name>Wand</name>
+        <wield>One Handed Ranged</wield>
+        <damage>4</damage>
+        <restriction>Wizard</restriction>
+    </weapon>
+</weapons>
